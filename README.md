@@ -1,8 +1,5 @@
 # Pokédex — React Native App
 
-Aplicación móvil multiplataforma que funciona como una **Pokédex interactiva** de la primera generación (151 Pokémon). Consulta información en tiempo real desde la [PokeAPI](https://pokeapi.co/) y explora cada Pokémon con una interfaz moderna, búsqueda integrada y vista de detalles.
-
----
 
 ## Descripción del proyecto
 
